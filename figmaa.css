@@ -1,0 +1,147 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.header{
+    border: solid 1px blue;
+    height: 15vh;
+    width: 100%;
+    background: rgb(11, 11, 136);
+}
+.heading{
+    font-size: 25px;
+    padding: 15px;
+    color: rgb(11, 11, 136);
+}
+.text{
+    margin-left: 15px;
+}
+.box{
+    display: flex;
+    justify-content: space-evenly;
+}
+.box .text1{
+    text-align: center;
+    margin-top: 20px;
+    font-size: 15px;
+    font-weight: bold;
+}
+.box .text2{
+text-align: center;    
+font-size: 12px;
+margin-top: 10px;
+color: rgba(0, 0, 0, 0.633);
+
+
+}
+.box1{
+    margin-top: 5vh;
+    border: solid 1px black;
+    height: 50vh;
+    width: 50vh;
+    border-radius: 10px;
+}
+.box .box2{
+    text-align: center;
+}
+.box2{
+  margin-top: 23px;
+  border-radius: 0px 0px 10px 10px;
+}
+
+.box2{
+        border: solid 1px black;
+        width: 50vh;
+        height: 5vh;
+        background: rgb(11, 11, 136);
+        color: white;
+}
+.box img{
+    height: 25vh;
+    width: 50vh;
+    border-radius: 10px 10px 0px 0px;
+}
+.center{
+    margin-top: 30px;
+    border: solid 1px black;
+    width: 100%;
+    height: 10vh;
+    background-color: rgba(255, 255, 255, 0.781);
+   
+    border-radius: 10px;
+}
+.center img{
+    height: 55px;
+    width: 55px;
+    margin-left: 30px;
+    margin-top: -15px;
+    
+}
+.center .text3{
+    color: rgb(27, 27, 98);
+    margin-left: 100px;
+    font-weight: bold;
+   
+}
+.textt{
+    margin-top: -30px;
+    font-size: 15px;
+    margin-left: 100px;
+    color: rgba(0, 0, 0, 0.65);
+}
+.center .boxx{
+    border: solid 2px rgb(6, 6, 68);
+    color: rgb(6, 6, 68);
+    width: 150px;
+    height: 20px;
+    font-weight: bold;
+    border-radius: 30px;
+    margin-left: 80%;
+    margin-top: -30px;
+}
+.footer{
+    margin-top: 20px;
+    border: solid 1px black;
+    width: 100%;
+    height: 40vh;
+    border-radius: 20px;
+}
+.footer .tex{
+   margin-left: -140px;
+    color: rgb(6, 6, 68);
+    font-weight: bold;
+    margin-top: 10px;
+}
+.footer {
+    display: flex;
+    justify-content: space-evenly;
+}
+.boxa{
+    margin-top: 15px;
+    border: solid 1px black;
+    height: 35vh;
+    width: 35vh;
+    border-radius: 10px;
+}
+.boxa img{
+    height: 60px;
+    width: 60px;
+    margin-top: 40px;
+    margin-left: 60px;
+}
+.texta{
+    text-align: center;    
+font-size: 12px;
+margin-top: 10px;
+color: rgba(0, 0, 0, 0.633);
+}
+.bttn{
+    border: solid 1px rgb(24, 24, 141);
+    color: rgb(24, 24, 141);
+    margin-top: 6px;
+    margin-left: 50px;
+    width: 90px;
+    height: 20px;
+    border-radius: 10px;
+    font-weight: bold;
+}
